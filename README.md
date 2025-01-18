@@ -2,9 +2,6 @@
 # Laboratuvar Raporlama Backend
 
 
-
-
-
 # Açıklama
  Bu sistem, laboratuvar çalışanlarının hastaların test sonuçlarını kaydetmelerine, güncellemelerine, raporlamalarına ve arşivlemelerine olanak tanır. Aynı zamanda sistem, yetkilendirilmiş kullanıcılara farklı erişim seviyeleri sunar, böylece her kullanıcı sadece yetkili olduğu alanlara erişebilir
 
