@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: lab-report
-          image: furkan07/labreport:latest
+          image: labreport:latest
           imagePullPolicy: Always
           ports:
             - name: http
